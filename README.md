@@ -15,7 +15,7 @@ My solution included: Dataverse tables and model-driven apps to canvas apps, Pow
 - **Dataverse Tables**: Custom entities for parking slots, vehicles, and users
 - **Power Automate Flows**: Automated notifications of slot status updates
 
-![alt text](./images/Automate%20Flow.png)
+![alt text](./Images/Automate%20Flow.png)
 - **Power BI Report**: Visual insights into parking usage, revenue, and trends.
 
 ![Alt text](./Images/PBI%20Front%20page.png)
