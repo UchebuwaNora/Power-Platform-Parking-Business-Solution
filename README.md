@@ -5,10 +5,21 @@ My solution included: Dataverse tables and model-driven apps to canvas apps, Pow
 
 ## Solution Overview
 - **Model-Driven App**: `C.H.S. Parking Solution`
+
+![Alt text](./Images/Model%20Driven%20App.png)
+
 - **Canvas App**: `Park Mate`
+
+![Alt text](./Images/parkmate%20-%20Landing%20Page.png)
+
 - **Dataverse Tables**: Custom entities for parking slots, vehicles, and users
-- **Power Automate Flows**: Automated notifications, slot status updates, and reporting
+- **Power Automate Flows**: Automated notifications of slot status updates
+
+![alt text](./images/Automate%20Flow.png)
 - **Power BI Report**: Visual insights into parking usage, revenue, and trends.
+
+![Alt text](./Images/PBI%20Front%20page.png)
+![Alt text](./Images/Parking%20Dash.png)
 
 ## 📽️ Walkthrough Video
 Watch the full demo here:  
@@ -16,16 +27,13 @@ Watch the full demo here:
 
 ## File Contents
 | `ParkingChallenge_Solution.zip` | Exported Power Platform solution | 
-![Alt text](./Images/Model%20Driven%20App.png)
-![Alt text](./Images/parkmate%20-%20Landing%20Page.png)
 
 | `Dataverse_Schemas/`  | Table definitions in JSON |
 
 | `PowerAutomate_Flows/`       | Exported flows in `.zip` `.json` |
 
 | `PowerBI_Report.pbix`        | Power BI dashboard file |
-![Alt text](./Images/PBI%20Front%20page.png)
-![Alt text](./Images/Parking%20Dash.png)
+
 | `Screenshots/`               | UI previews and flow diagrams |
 
 ## How to Deploy
