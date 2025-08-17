@@ -15,14 +15,17 @@ Watch the full demo here:
 👉 [View on Google Drive](https://drive.google.com/drive/folders/1vZca-9l9lE1ufAz-wOpLYM8R5hk7alf8?usp=sharing)
 
 ## File Contents
-| `ParkingChallenge_Solution.zip` | Exported Power Platform solution |
+| `ParkingChallenge_Solution.zip` | Exported Power Platform solution | 
+![Alt text](./Images/Model%20Driven%20App.png)
+![Alt text](./Images/parkmate%20-%20Landing%20Page.png)
 
 | `Dataverse_Schemas/`  | Table definitions in JSON |
 
 | `PowerAutomate_Flows/`       | Exported flows in `.zip` `.json` |
 
 | `PowerBI_Report.pbix`        | Power BI dashboard file |
-
+![Alt text](./Images/PBI%20Front%20page.png)
+![Alt text](./Images/Parking%20Dash.png)
 | `Screenshots/`               | UI previews and flow diagrams |
 
 ## How to Deploy
